@@ -37,14 +37,12 @@ SCREENSHOTS OF MOBILE VIEW
 <br>
 
 SCREENSHOTS OF DESKTOP VIEW 
-[my webpage desktop view..pdf](https://github.com/akkk12/webdesignproject/files/4953451/my.webpage.desktop.view.pdf)
+View the desktop view [my webpage desktop view..pdf](https://github.com/akkk12/webdesignproject/files/4953580/my.webpage.desktop.view.pdf)
 
-![image](https://user-images.githubusercontent.com/68320786/88055722-0eed3a80-cb7d-11ea-9bd1-f43edd9f20f5.png)
 
-![image](https://user-images.githubusercontent.com/68320786/88055786-2b897280-cb7d-11ea-96bf-f3b484c6fb1b.png)
 
-![image](https://user-images.githubusercontent.com/68320786/88055810-3512da80-cb7d-11ea-964b-136d041794f6.png)
-
-![image](https://user-images.githubusercontent.com/68320786/88055821-39d78e80-cb7d-11ea-8edc-9810bb16dacf.png)
-
-![image](https://user-images.githubusercontent.com/68320786/88055827-3d6b1580-cb7d-11ea-9890-a986cc41b43b.png)
+![image](https://user-images.githubusercontent.com/68320786/88056827-cafb3500-cb7e-11ea-86cf-4ff794bbbc72.png)
+![image](https://user-images.githubusercontent.com/68320786/88056842-d0587f80-cb7e-11ea-9ce7-e4a907a2eda1.png)
+![image](https://user-images.githubusercontent.com/68320786/88056822-c767ae00-cb7e-11ea-8acb-72471dbed428.png)
+![image](https://user-images.githubusercontent.com/68320786/88056850-d3ec0680-cb7e-11ea-8a3c-43a6cc155313.png)
+![image](https://user-images.githubusercontent.com/68320786/88056855-d64e6080-cb7e-11ea-8f52-410a81ebb8dc.png)
