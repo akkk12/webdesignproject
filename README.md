@@ -2,6 +2,23 @@
 
 View my project here.<a href ="https://akkk12.github.io/webdesignproject/">Click Here</a>
 
+My website is build from scratch .I have used html,css,bootstrap and javascript to create the website . I have created a webpage for a restaurant.
+It includes Home,about ,menu and contact in the navigation bar ,followed by an image carousal . Then I have the 3 sections,i.e,About ,menu and contact. About section contains a basic description about the
+Restaurant , the menu section  contains the food items along with their prices in the form of a table.
+Next we have the contact section which contains the social media buttons and a reservation form to reserve a table .As you click on the button a form will open up. 
+ The four enhancements that I have used for my page are :
+1.	Google Fonts 
+2.	Image Carousal 
+3.	Social media buttons 
+4.	Sticky Footer
+
+
+
+
+
+
+
+
 W3 VALIDATOR SCREENSHOT 
 ![w3 validator](https://user-images.githubusercontent.com/68320786/88051993-3214eb80-cb77-11ea-9309-512b6a7e790f.png)
 
