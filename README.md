@@ -19,3 +19,12 @@ SCREENSHOTS OF MOBILE VIEW
 SCREENSHOTS OF DESKTOP VIEW 
 [my webpage desktop view..pdf](https://github.com/akkk12/webdesignproject/files/4953451/my.webpage.desktop.view.pdf)
 
+![image](https://user-images.githubusercontent.com/68320786/88055722-0eed3a80-cb7d-11ea-9bd1-f43edd9f20f5.png)
+
+![image](https://user-images.githubusercontent.com/68320786/88055786-2b897280-cb7d-11ea-96bf-f3b484c6fb1b.png)
+
+![image](https://user-images.githubusercontent.com/68320786/88055810-3512da80-cb7d-11ea-964b-136d041794f6.png)
+
+![image](https://user-images.githubusercontent.com/68320786/88055821-39d78e80-cb7d-11ea-8edc-9810bb16dacf.png)
+
+![image](https://user-images.githubusercontent.com/68320786/88055827-3d6b1580-cb7d-11ea-9890-a986cc41b43b.png)
