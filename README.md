@@ -39,10 +39,10 @@ SCREENSHOTS OF MOBILE VIEW
 SCREENSHOTS OF DESKTOP VIEW 
 View the desktop view [my webpage desktop view..pdf](https://github.com/akkk12/webdesignproject/files/4953580/my.webpage.desktop.view.pdf)
 
-
+![image](https://user-images.githubusercontent.com/68320786/88056822-c767ae00-cb7e-11ea-8acb-72471dbed428.png)
 
 ![image](https://user-images.githubusercontent.com/68320786/88056827-cafb3500-cb7e-11ea-86cf-4ff794bbbc72.png)
 ![image](https://user-images.githubusercontent.com/68320786/88056842-d0587f80-cb7e-11ea-9ce7-e4a907a2eda1.png)
-![image](https://user-images.githubusercontent.com/68320786/88056822-c767ae00-cb7e-11ea-8acb-72471dbed428.png)
+
 ![image](https://user-images.githubusercontent.com/68320786/88056850-d3ec0680-cb7e-11ea-8a3c-43a6cc155313.png)
 ![image](https://user-images.githubusercontent.com/68320786/88056855-d64e6080-cb7e-11ea-8f52-410a81ebb8dc.png)
